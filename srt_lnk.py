@@ -1,5 +1,3 @@
-# //check if linked list is sorted?
-
 def srt(lnk):
     if not lnk:
         return True
